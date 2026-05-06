@@ -1,0 +1,37 @@
+{
+  "name": "Seyed F",
+  "title": "Software Engineer IV",
+  "location": "Bengaluru, India",
+  "summary": "Senior Software Engineer with 11 years of experience building high-scale distributed systems...",
+  "skills": [
+    "Distributed Systems",
+    "System Design",
+    "IAM (CIAM/EIAM)",
+    "OAuth2, SAML, OIDC",
+    "React, Python, Java",
+    "AWS, Kubernetes"
+  ],
+  "experience": [
+    {
+      "company": "Cisco Systems",
+      "role": "Software Engineer IV",
+      "duration": "Jul 2024 – Present",
+      "highlights": [
+        "Subscription-based rate limiting",
+        "Granular RBAC for integrations",
+        "AI-powered timeline assistant",
+        "Hosted log streamer"
+      ]
+    },
+    {
+      "company": "Intuit",
+      "role": "Software Engineer II",
+      "duration": "May 2020 – Jul 2024",
+      "highlights": [
+        "Profile sync EIAM → CIAM",
+        "CDC platform (Oracle → DynamoDB)",
+        "Federated SSO standardization"
+      ]
+    }
+  ]
+}
