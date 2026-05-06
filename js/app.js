@@ -90,11 +90,11 @@ function App() {
   const [page, setPage] = useState('about');
 
   return (
-    <>
+    <div>
       <Navbar setPage={setPage} />
       {page === 'about' && <About />}
       {page === 'resources' && <Resources />}
-    </>
+    </div>
   );
 }
 
